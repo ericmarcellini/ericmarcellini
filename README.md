@@ -1,5 +1,7 @@
 <h2> Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <h2>
-  <p>I'm Software Developer from Spain. Love working with React and JavaScript.</p>
+  I'm Eric, a Full Stack Developer 🚀 from Spain. Love working with React and JavaScript. I'm very passionate about Front-end development and learning new tools.
+  My other passions are cats & gaming. I could probably beat you in Super Smash Bros Melee
+  
 <img src="https://github-readme-stats.vercel.app/api?username=ericmarcellini&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmarcellini&layout=compact" />
   
