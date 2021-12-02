@@ -1,8 +1,9 @@
 <h2> Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <h2>
+  <p>I'm Software Developer from Spain. Love working with React and JavaScript.</p>
 <img src="https://github-readme-stats.vercel.app/api?username=ericmarcellini&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmarcellini&layout=compact" />
   
-I'm Software Developer from Spain. Love working with React and JavaScript.
+
 
 ### Currently use:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,4 +30,4 @@ I'm Software Developer from Spain. Love working with React and JavaScript.
 
 
 ### Contact me via:
-![Twitter](https://img.shields.io/badge/@EricLearnsCode-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
+
