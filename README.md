@@ -1,10 +1,12 @@
-<h2> Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <h2>
-  I'm Eric, a Full Stack Developer 🚀 from Spain. Love working with React and JavaScript. I'm very passionate about Front-end development and learning new tools.
-  My other passions are cats & gaming. I could probably beat you in Super Smash Bros Melee
+## Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
   
-<img src="https://github-readme-stats.vercel.app/api?username=ericmarcellini&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmarcellini&layout=compact" />
+  I'm Eric, a Full Stack Web Developer 🚀 from Spain 🇪🇸 based in Berlin 🇩🇪. Love working with React and JavaScript. I'm very passionate about Front-end development and learning new tools.
   
+  My other passions are gaming, weight lifting, animals, skateboarding and music. I could probably beat you in Super Smash Bros Melee.
+  <br>
+
+ 
 
 
 ### Currently use:
@@ -26,10 +28,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=ericmarcellini&show_icons=true&theme=radical" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmarcellini&layout=compact" />
 
 
 
 
 ### Contact me via:
-
+[![Twitter Badge](https://img.shields.io/badge/-@EricLearnsCode-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EricLearnsCode)](https://twitter.com/EricLearnsCode)
