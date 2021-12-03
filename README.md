@@ -1,4 +1,4 @@
-## Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   
   I'm Eric, a Full Stack Web Developer 🚀 from Spain 🇪🇸 based in Berlin 🇩🇪. Love working with React and JavaScript. I'm very passionate about Front-end development and learning new tools.
