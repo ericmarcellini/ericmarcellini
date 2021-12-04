@@ -36,3 +36,4 @@
 
 ### Contact me via:
 [![Twitter Badge](https://img.shields.io/badge/-@EricLearnsCode-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EricLearnsCode)](https://twitter.com/EricLearnsCode)
+@ericmarcellini in Medium
