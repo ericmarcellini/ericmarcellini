@@ -5,7 +5,8 @@
   
   My other passions are gaming, weight lifting, animals, skateboarding and music. I could probably beat you in Super Smash Bros Melee.
   <br>
-
+  Portfolio: https://ericmarcellini.com <br>
+<br>
  
 
 
