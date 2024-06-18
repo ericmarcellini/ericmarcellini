@@ -1,12 +1,19 @@
 # Hello World! I'm Eric! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   
-  I'm Eric, a Full Stack Web Developer 🚀 from Spain 🇪🇸 based in Berlin 🇩🇪. Love working with React and JavaScript. I'm very passionate about Front-end development and learning new tools.
-  
-  My other passions are gaming, weight lifting, animals, skateboarding and music. I could probably beat you in Super Smash Bros Melee.
-  <br>
-  Portfolio: https://ericmarcellini.com <br>
-<br>
+👋 Hi, I'm Eric!
+
+I'm a Full Stack Web Developer 🚀 originally from Spain 🇪🇸 and currently based in Berlin 🇩🇪. I specialize in React and JavaScript, and I have a deep passion for Front-end Development. I thrive on learning new tools and technologies to stay at the forefront of the industry.
+
+Beyond coding, my passions include:
+
+    Gaming (challenge me in Super Smash Bros Melee 🎮)
+    Weight Lifting 💪
+    Animals 🐾
+    Skateboarding 🛹
+    Music 🎶
+
+Check out my work: ericmarcellini.com
  
 
 
