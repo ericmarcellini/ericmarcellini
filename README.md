@@ -13,7 +13,7 @@ Beyond coding, my passions include:
     Skateboarding 🛹
     Music 🎶
 
-Check out my work: ericmarcellini.com
+Check out my work: [ericmarcellini.com](https://ericmarcellini.com)
  
 
 
